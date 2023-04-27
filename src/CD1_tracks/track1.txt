@@ -4,3 +4,5 @@ line 3: i guess they're talking about you and me
 line 4: baby, nobody will love you
 line 5: nobody will love you like, like i do
 line 6: i guess that's half true
+
+line 7: editing the lyrics
